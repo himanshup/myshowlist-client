@@ -1,0 +1,2 @@
+// Auth
+export const LOGIN_BUTTON_CLICKED = "LOGIN_BUTTON_CLICKED";
